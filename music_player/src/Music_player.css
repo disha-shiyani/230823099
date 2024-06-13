@@ -1,0 +1,19 @@
+
+.gradient-background {
+    background: linear-gradient(180deg, #000000 0%, #808080 100%);
+    height:689px;
+    width: auto;
+}
+.gradient-background1 {
+    background: linear-gradient(150deg, #000000 0%, #808080 100%);
+    height:560px;
+}
+
+/* MusicPlayerCard.css */
+.control-buttons {
+    margin-top: 10px;
+}
+
+.control-buttons button {
+    margin-right: 5px;
+}
